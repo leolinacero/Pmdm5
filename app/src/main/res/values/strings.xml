@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">pmdm5</string>
+    <string name="naciste">Naciste......</string>
+    <string name="fecha_de_nacimiento">Fecha de nacimiento</string>
+    <string name="textview">TextView</string>
+
+</resources>
