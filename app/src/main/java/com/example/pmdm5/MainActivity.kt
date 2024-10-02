@@ -143,7 +143,7 @@ class MainActivity : AppCompatActivity() {
         return bisiesto
     }
 
-    // Función que devuelve el número de días en un mes
+    // Función que devuelve el números de días en un mes
     private fun numeroDeDias(m: Int, a: Int): Int {
         return when (m) {
             1, 3, 5, 7, 8, 10, 12 -> 31
